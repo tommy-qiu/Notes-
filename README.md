@@ -6,7 +6,7 @@ were made for the Table View Controller and the View Controller which made up th
 were used to connect buttons and text fields to the code. CoreData and CoreData entities were used to store the notes locally 
 so that the notes could be saved even if the application was completely stopped, so these notes could be retrieved from memory easily.
 
-<div style="text-align:center">
+<div align="center">
 <img src="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg" width="50%" height = "50%">
 </div>
 <div style="text-align:center">
