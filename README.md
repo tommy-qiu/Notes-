@@ -8,4 +8,4 @@ so that the notes could be saved even if the application was completely stopped,
 
 
 
-![mutt dark](https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg)
+![mutt dark](https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg){:height="50%" width="50%"}
