@@ -17,16 +17,27 @@
 
 ## DESCRIPTION
 
-#### What is this project?
-The Notes! project allows you to create notes, name these notes with a title, use the first line of the note as a description, save these notes so that when you close the application they are still there and finally delete notes.
+#### Features
+* Create and give a title to New Notes
+* Use the first line of your note as a description that appears when you are looking at your note from the outside!
+* Save these notes locally on your device so that when you close the application they are still there
+* Deleting Notes that have been previously saved and stored
+* See the most recent point in time when the note was edited
+* Automatically organizes notes itself based on time (The most recently edited note will be on top and the least recent at the bottom)
 
+
+#### Implementation
+* Storyboards & Storyboard Objects
+  * Buttons
+  * Table View Controller
+  * View Controller
+  * Table View Cell
+  * Text Field
+  * UILabel
+* Cocoa Touch Files/Swift Files
+  * IBActions
+  * IBOutlets
+* CoreData & CoreData Entities
+ 
 #### How does it work?
-
-
-#### How was it coded?
-This application was built using Storyboards and Swift Files. Storyboard Objects were used and Cocoa Touch Files
-were made for the Table View Controller and the View Controller which made up the Storyboard file. IBActions and IBOutlets
-were used to connect buttons and text fields to the code. CoreData and CoreData entities were used to store the notes locally 
-so that the notes could be saved even if the application was completely stopped, so these notes could be retrieved from memory easily.
-<br><br><br>
-
+Click the add button on the top right corner.
