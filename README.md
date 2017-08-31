@@ -9,4 +9,3 @@ so that the notes could be saved even if the application was completely stopped,
 
 
 ![mutt dark](https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg)
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
