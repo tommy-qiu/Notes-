@@ -8,5 +8,5 @@ so that the notes could be saved even if the application was completely stopped,
 
 
 
-![mutt dark](/CompletionItems/app-screenshots/5.5-inch Screenshot 4.jpg)
+![mutt dark](Notes-/CompletionItems/app-screenshots/5.5-inch Screenshot 4.jpg)
 ![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
