@@ -8,4 +8,4 @@ so that the notes could be saved even if the application was completely stopped,
 
 
 
-![Alt text](/CompletionItems/app-screenshots/5.5-inch Screenshot 4.jpg.jpg?raw=true "Optional Title")
+![mutt dark](/CompletionItems/app-screenshots/5.5-inch Screenshot 4.jpg)
