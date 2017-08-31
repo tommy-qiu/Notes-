@@ -1,5 +1,5 @@
-# Notes!
-## A Note-Taking Application
+# Notes! A Note-Taking Application
+
 #### Description
 This notes application was built using Storyboards and Swift Files. Storyboard Objects were used and Cocoa Touch Files
 were made for the Table View Controller and the View Controller which made up the Storyboard file. IBActions and IBOutlets
