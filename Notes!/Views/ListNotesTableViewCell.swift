@@ -2,9 +2,9 @@
 //  ListNotesTableViewCell.swift
 //  MakeSchoolNotes
 //
-//  Created by Chris Orcutt on 10/18/15.
-//  Copyright © 2015 Make School. All rights reserved.
-//
+//  Created by Tommy Qiu on 1/10/16.
+//  Copyright © 2016 Tommy Co. All rights reserved.
+
 
 import UIKit
 

@@ -2,9 +2,9 @@
 //  DisplayNoteViewController.swift
 //  MakeSchoolNotes
 //
-//  Created by Chris Orcutt on 1/10/16.
-//  Copyright © 2016 MakeSchool. All rights reserved.
-//
+//  Created by Tommy Qiu on 1/10/16.
+//  Copyright © 2016 Tommy Co. All rights reserved.
+
 
 import UIKit
 import CoreData

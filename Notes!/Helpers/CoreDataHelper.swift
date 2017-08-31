@@ -2,9 +2,9 @@
 //  CoreDataHelper.swift
 //  MakeSchoolNotes
 //
-//  Created by Tommy Qiu on 7/5/17.
-//  Copyright © 2017 MakeSchool. All rights reserved.
-//
+//  Created by Tommy Qiu on 1/10/16.
+//  Copyright © 2016 Tommy Co. All rights reserved.
+
 
 import Foundation
 import CoreData
