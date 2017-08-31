@@ -27,6 +27,14 @@
 
 
 #### IMPLEMENTATION
+* CoreData & CoreData Entities
+
+* Cocoa Touch Files/Swift Files
+  * IBActions
+  * IBOutlets
+  * Custom Table View Cells
+
+
 * Storyboards & Storyboard Objects
   * Buttons & Bar Button Items
   * Segues & Unwind Segues
@@ -37,8 +45,3 @@
   * Text Field
   * UILabel
   
-* Cocoa Touch Files/Swift Files
-  * IBActions
-  * IBOutlets
-  * Custom Table View Cells
-* CoreData & CoreData Entities
