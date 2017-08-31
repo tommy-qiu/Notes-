@@ -1,5 +1,20 @@
 # Notes! A Note-Taking Application
 
+
+<p float ="left">
+<img src="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg" width="31.5%" height = "31.5%">
+
+
+<img src ="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%202.jpg" width="31.5%" height = "31.5%">
+
+
+<img src ="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%203.jpg" width="31.5%" height = "31.5%">
+
+
+
+</p>
+
+
 ## Description
 
 #### What is this project?
