@@ -7,8 +7,8 @@ were used to connect buttons and text fields to the code. CoreData and CoreData 
 so that the notes could be saved even if the application was completely stopped, so these notes could be retrieved from memory easily.
 
 
-<img src="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg" width="40%" height = "40%">
+<img src="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg" width="20%" height = "20%">
 
 
-<img src ="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%202.jpg" width="40%" height = "40%">
+<img src ="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%202.jpg" width="20%" height = "20%">
 
