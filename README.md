@@ -17,7 +17,7 @@
 
 ## DESCRIPTION
 
-#### Features
+#### FEATURES
 * Create and give a title to New Notes
 * Use the first line of your note as a description that appears when you are looking at your note from the outside!
 * Save these notes locally on your device so that when you close the application they are still there
@@ -26,7 +26,7 @@
 * Automatically organizes notes itself based on time (The most recently edited note will be on top and the least recent at the bottom)
 
 
-#### Implementation
+#### IMPLEMENTATION
 * Storyboards & Storyboard Objects
   * Buttons
   * Table View Controller
