@@ -28,16 +28,17 @@
 
 #### IMPLEMENTATION
 * Storyboards & Storyboard Objects
-  * Buttons
+  * Buttons & Bar Button Items
+  * Segues & Unwind Segues
+  * Navigation Controller
   * Table View Controller
   * View Controller
   * Table View Cell
   * Text Field
   * UILabel
+  
 * Cocoa Touch Files/Swift Files
   * IBActions
   * IBOutlets
+  * Custom Table View Cells
 * CoreData & CoreData Entities
- 
-#### How does it work?
-Click the add button on the top right corner.
