@@ -12,4 +12,9 @@ so that the notes could be saved even if the application was completely stopped,
 
 <img src ="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%202.jpg" width="35%" height = "35%">
 
+
+<img src ="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%203.jpg" width="35%" height = "35%">
+
+
+
 </p>
