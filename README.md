@@ -1,4 +1,4 @@
-                                                          # Notes!
+<p float = "center"> # Notes!</p>
 A Note-Taking Application
 
 This notes application was built using Storyboards and Swift Files. Storyboard Objects were used and Cocoa Touch Files
