@@ -8,6 +8,7 @@ so that the notes could be saved even if the application was completely stopped,
 
 <div style="text-align:center">
 <img src="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%204.jpg" width="50%" height = "50%">
-
+</div>
+<div style="text-align:center">
 <img src ="https://github.com/tommy-qiu/Notes-/blob/master/CompletionItems/app-screenshots/5.5-inch%20Screenshot%202.jpg" width = "50%" height = "50%">
 </div>
